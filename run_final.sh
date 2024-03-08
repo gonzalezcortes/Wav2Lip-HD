@@ -1,6 +1,6 @@
 export filename=mona
 export input_video=input_videos
-export input_audio=input_audios/ai.wav
+export input_audio=input_audios/ElevenLabs_2024-02-29T15_28_39_Rachel_pre_s50_sb75_se0_b_m2.wav
 export frames_wav2lip=frames_wav2lip
 export frames_hd=frames_hd
 export output_videos_wav2lip=output_videos_wav2lip
