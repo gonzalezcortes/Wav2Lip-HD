@@ -1,0 +1,7 @@
+Collecting opencv-contrib-python
+  Obtaining dependency information for opencv-contrib-python from https://files.pythonhosted.org/packages/aa/2e/576ac47f21d555b459ca837bb3fb937e50339b8fbfd294945ea2f5290416/opencv_contrib_python-4.9.0.80-cp37-abi3-win_amd64.whl.metadata
+  Using cached opencv_contrib_python-4.9.0.80-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Requirement already satisfied: numpy>=1.21.2 in c:\users\daniel.gonzalez\appdata\local\programs\python\python311\lib\site-packages (from opencv-contrib-python) (1.26.2)
+Using cached opencv_contrib_python-4.9.0.80-cp37-abi3-win_amd64.whl (45.3 MB)
+Installing collected packages: opencv-contrib-python
+Successfully installed opencv-contrib-python-4.9.0.80
